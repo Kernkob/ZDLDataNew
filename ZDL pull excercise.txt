@@ -1,1 +1,2 @@
 Checking that we have text
+Adding a change to the branch
