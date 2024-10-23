@@ -1,5 +1,3 @@
-Actual Information:
-
 ZDL Web Data
 
 {
