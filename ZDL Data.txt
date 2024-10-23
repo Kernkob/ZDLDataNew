@@ -1,6 +1,4 @@
-Actual Information:
-
-ZDL Web Data
+ZDL Web Data (JSON)
 
 {
     "tiers": {
