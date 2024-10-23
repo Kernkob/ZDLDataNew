@@ -211,17 +211,6 @@ ZDL Web Data
                 "tier": "D"
             },
             {
-                "name": "(F)LAVA",
-                "displayName": "",
-                "hash": "4CC2D3BAA3F279E8F471EC6B0980B7338C04E079",
-                "manualRecords": [],
-                "manualCreators": [],
-                "manualValidation": 0,
-                "youtubeUrls": {},
-                "description": "...",
-                "tier": "E"
-            },
-            {
                 "name": "The Duality of Lexer",
                 "displayName": "",
                 "hash": "75BD11703206ACB9ED8A60A93D21B770F2EFB9CD",
@@ -260,6 +249,17 @@ ZDL Web Data
                     "Lexer": "hrKGPDaLa4I",
                     "Hydro": "hkar8kWzcgo"
                 },
+                "description": "...",
+                "tier": "E"
+            },
+            {
+                "name": "(F)LAVA",
+                "displayName": "",
+                "hash": "4CC2D3BAA3F279E8F471EC6B0980B7338C04E079",
+                "manualRecords": [],
+                "manualCreators": [],
+                "manualValidation": 0,
+                "youtubeUrls": {},
                 "description": "...",
                 "tier": "E"
             },
@@ -320,6 +320,17 @@ ZDL Web Data
                     "validation": "F88YGIQ4I2A",
                     "RoundNzt": "F88YGIQ4I2A"
                 },
+                "description": "...",
+                "tier": "E"
+            },
+            {
+                "name": "Tough Toob Map",
+                "displayName": "",
+                "hash": "DB56F90C2EEDAB575A4354D80EBE48A6ECECFAF7",
+                "manualRecords": [],
+                "manualCreators": [],
+                "manualValidation": 0,
+                "youtubeUrls": {},
                 "description": "...",
                 "tier": "E"
             },
@@ -441,17 +452,6 @@ ZDL Web Data
                 "tier": "F"
             },
             {
-                "name": "Arctic Mammoth",
-                "displayName": "",
-                "hash": "30308AF2F498DD2CEC52A2E96E0828D4D4F5CA67",
-                "manualRecords": [],
-                "manualCreators": [],
-                "manualValidation": 0,
-                "youtubeUrls": {},
-                "description": "...",
-                "tier": "F"
-            },
-            {
                 "name": "antrum desideratum",
                 "displayName": "",
                 "hash": "3ABE5F2D473B19EB950EF54AB0ED05FCB2B7FD7D",
@@ -478,9 +478,9 @@ ZDL Web Data
                 "tier": "F"
             },
             {
-                "name": "ZeepStep",
+                "name": "Enigma",
                 "displayName": "",
-                "hash": "A91EC5F35DE91191C62FDA03C247B7D2D8420C7B",
+                "hash": "10D5D79606D6A07C433229310DA0E8F6C124CF84",
                 "manualRecords": [
                     {
                         "user": "Last"
@@ -493,14 +493,21 @@ ZDL Web Data
                 "tier": "F"
             },
             {
-                "name": "Enigma",
+                "name": "FUN  - The Experience",
                 "displayName": "",
-                "hash": "10D5D79606D6A07C433229310DA0E8F6C124CF84",
-                "manualRecords": [
-                    {
-                        "user": "Last"
-                    }
-                ],
+                "hash": "2D05008B1B9DD867FC47064FAD0AFA3A990C4309",
+                "manualRecords": [],
+                "manualCreators": [],
+                "manualValidation": 0,
+                "youtubeUrls": {},
+                "description": "...",
+                "tier": "F"
+            },
+            {
+                "name": "Arctic Mammoth",
+                "displayName": "",
+                "hash": "30308AF2F498DD2CEC52A2E96E0828D4D4F5CA67",
+                "manualRecords": [],
                 "manualCreators": [],
                 "manualValidation": 0,
                 "youtubeUrls": {},
@@ -635,9 +642,35 @@ ZDL Web Data
                 "tier": "G"
             },
             {
+                "name": "ZeepStep",
+                "displayName": "",
+                "hash": "A91EC5F35DE91191C62FDA03C247B7D2D8420C7B",
+                "manualRecords": [
+                    {
+                        "user": "Last"
+                    }
+                ],
+                "manualCreators": [],
+                "manualValidation": 0,
+                "youtubeUrls": {},
+                "description": "...",
+                "tier": "G"
+            },
+            {
                 "name": "Fading Memory",
                 "displayName": "",
                 "hash": "A0D523189182CC35879B0E507BDD61A63F6967D8",
+                "manualRecords": [],
+                "manualCreators": [],
+                "manualValidation": 0,
+                "youtubeUrls": {},
+                "description": "...",
+                "tier": "G"
+            },
+            {
+                "name": "Intergalactic Crossroads",
+                "displayName": "",
+                "hash": "1843336D0C6E32C815CDFEC1B1F5A9D39F6FC400",
                 "manualRecords": [],
                 "manualCreators": [],
                 "manualValidation": 0,
@@ -768,7 +801,9 @@ ZDL Web Data
                 "youtubeUrls": {},
                 "description": "...",
                 "tier": "H"
-            },
+            }
+        ],
+        "legacy": [
             {
                 "name": "lucifid",
                 "displayName": "",
@@ -782,7 +817,7 @@ ZDL Web Data
                 "manualValidation": 0,
                 "youtubeUrls": {},
                 "description": "...",
-                "tier": "I"
+                "tier": "X"
             },
             {
                 "name": "BobCheck",
@@ -797,7 +832,7 @@ ZDL Web Data
                 "manualValidation": 0,
                 "youtubeUrls": {},
                 "description": "...",
-                "tier": "J"
+                "tier": "X"
             },
             {
                 "name": "gelida smaragdi reliquiae",
@@ -818,24 +853,7 @@ ZDL Web Data
                 "manualValidation": 0,
                 "youtubeUrls": {},
                 "description": "...",
-                "tier": "J"
-            }
-        ],
-        "legacy": [
-            {
-                "name": "Soap Hell",
-                "displayName": "",
-                "hash": "AE87BA82C274F6AE307194873EE65BFBC15CA905",
-                "manualRecords": [
-                    {
-                        "user": "Odist"
-                    }
-                ],
-                "manualCreators": [],
-                "manualValidation": 0,
-                "youtubeUrls": {},
-                "description": "...",
-                "tier": "J"
+                "tier": "X"
             },
             {
                 "name": "Mount Pain",
@@ -865,12 +883,12 @@ ZDL Web Data
                 "tier": "X"
             },
             {
-                "name": "Ronans_Tears_v3",
+                "name": "Soap Hell",
                 "displayName": "",
-                "hash": "896A74ED31D62F1114A758EDD7511C91816715C8",
+                "hash": "AE87BA82C274F6AE307194873EE65BFBC15CA905",
                 "manualRecords": [
                     {
-                        "user": "justMaki"
+                        "user": "Odist"
                     }
                 ],
                 "manualCreators": [],
@@ -880,10 +898,14 @@ ZDL Web Data
                 "tier": "X"
             },
             {
-                "name": "Frozen Landscape",
+                "name": "Ronans_Tears_v3",
                 "displayName": "",
-                "hash": "1E158CD288A7F53B82D7D90C27D43B69790BB66A",
-                "manualRecords": [],
+                "hash": "896A74ED31D62F1114A758EDD7511C91816715C8",
+                "manualRecords": [
+                    {
+                        "user": "justMaki"
+                    }
+                ],
                 "manualCreators": [],
                 "manualValidation": 0,
                 "youtubeUrls": {},
@@ -902,14 +924,10 @@ ZDL Web Data
                 "tier": "X"
             },
             {
-                "name": "Childs Play Thing",
+                "name": "Frozen Landscape",
                 "displayName": "",
-                "hash": "3B4BB8F7F31714049BAAC2926A26D8E7BDE767AF",
-                "manualRecords": [
-                    {
-                        "user": "[CTR] L3it3R"
-                    }
-                ],
+                "hash": "1E158CD288A7F53B82D7D90C27D43B69790BB66A",
+                "manualRecords": [],
                 "manualCreators": [],
                 "manualValidation": 0,
                 "youtubeUrls": {},
@@ -932,6 +950,21 @@ ZDL Web Data
                 "displayName": "",
                 "hash": "1854DDF48DFD5A7796896C589AE551C91F1131AC",
                 "manualRecords": [],
+                "manualCreators": [],
+                "manualValidation": 0,
+                "youtubeUrls": {},
+                "description": "...",
+                "tier": "X"
+            },
+            {
+                "name": "Childs Play Thing",
+                "displayName": "",
+                "hash": "3B4BB8F7F31714049BAAC2926A26D8E7BDE767AF",
+                "manualRecords": [
+                    {
+                        "user": "[CTR] L3it3R"
+                    }
+                ],
                 "manualCreators": [],
                 "manualValidation": 0,
                 "youtubeUrls": {},
@@ -983,6 +1016,21 @@ ZDL Web Data
                 "tier": "X"
             },
             {
+                "name": "Neon Hell",
+                "displayName": "",
+                "hash": "1BF0E78DB37B34326DA10F57535A7B263E88CEEF",
+                "manualRecords": [
+                    {
+                        "user": "Nicolas_Gamer5476"
+                    }
+                ],
+                "manualCreators": [],
+                "manualValidation": 0,
+                "youtubeUrls": {},
+                "description": "...",
+                "tier": "X"
+            },
+            {
                 "name": "Janksitions",
                 "displayName": "",
                 "hash": "C59F37FCF57D71C857D68EDBB21E0F02A54BB388",
@@ -998,21 +1046,6 @@ ZDL Web Data
                 "displayName": "",
                 "hash": "66C8946EFD63801E65DC7998CA22F5486A076F78",
                 "manualRecords": [],
-                "manualCreators": [],
-                "manualValidation": 0,
-                "youtubeUrls": {},
-                "description": "...",
-                "tier": "X"
-            },
-            {
-                "name": "Neon Hell",
-                "displayName": "",
-                "hash": "1BF0E78DB37B34326DA10F57535A7B263E88CEEF",
-                "manualRecords": [
-                    {
-                        "user": "Nicolas_Gamer5476"
-                    }
-                ],
                 "manualCreators": [],
                 "manualValidation": 0,
                 "youtubeUrls": {},
