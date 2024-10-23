@@ -23,7 +23,7 @@ ZDL Web Data
             {
                 "name": "my corn burnt down o7",
                 "displayName": "",
-                "hash": "9FE6A8C34B80122ECF940D72D17DC85293655F51",
+                "hash": "EA091C8D3CB324EF313BF9DF574344F233380BB0",
                 "manualRecords": [
                     {
                         "user": "Kernkob"
@@ -41,7 +41,7 @@ ZDL Web Data
             {
                 "name": "my corn dried up '^'",
                 "displayName": "",
-                "hash": "5E583B520D80AD8381C277F3548BA2A1FDC4AD8C",
+                "hash": "E9C020CEFB5E3D971E8C39F4E53702F355D57C7C",
                 "manualRecords": [
                     {
                         "user": "Kernkob"
@@ -63,7 +63,7 @@ ZDL Web Data
             {
                 "name": "Jungle Jam 3",
                 "displayName": "",
-                "hash": "E1D29BCE738A25EA69671927610EC9439BBBD0C8",
+                "hash": "C2D48FB5478EEEB3D0E94008AAE9D440E9E112CD",
                 "manualRecords": [
                     {
                         "user": "Sandals"
@@ -86,7 +86,7 @@ ZDL Web Data
             {
                 "name": "my corn thawed out -_-",
                 "displayName": "",
-                "hash": "7E7C6F4D0BA4DF1D8AA44493D99AF40A629CF690",
+                "hash": "76761722F03E59CC99DFFF0FC5B10A6C3D7E3F58",
                 "manualRecords": [
                     {
                         "user": "Kernkob"
@@ -101,7 +101,7 @@ ZDL Web Data
             {
                 "name": "Red Dread",
                 "displayName": "",
-                "hash": "1F14893D1E6837D3603CD5ECAAA77DE492341956",
+                "hash": "827A42805FC6F7E612E3840ED563E10095D4CE41",
                 "manualRecords": [
                     {
                         "user": "justMaki"
@@ -120,7 +120,7 @@ ZDL Web Data
             {
                 "name": "Trail Of The Original Dragon",
                 "displayName": "",
-                "hash": "B977AF06BE0A5D123055673A7B7EC0079AEE6872",
+                "hash": "7AE8114F5B0E92B933A1352A365C46A3E270FF3E",
                 "manualRecords": [
                     {
                         "user": "justMaki"
@@ -147,7 +147,7 @@ ZDL Web Data
             {
                 "name": "my corn froze over `,(",
                 "displayName": "",
-                "hash": "8DC2C35B3393FC78E82FAB9B16274647530CDFE0",
+                "hash": "6E34E29951452F6239DBAB3851CCF6E0E8A84584",
                 "manualRecords": [
                     {
                         "user": "Kernkob"
@@ -162,7 +162,7 @@ ZDL Web Data
             {
                 "name": "Cosmic Bobcheck",
                 "displayName": "",
-                "hash": "D75637DBEE91FBA5FFE29676F4DBEC9CF11B78CB",
+                "hash": "2233962AB2091AF91090BB4EEA4B8E40502BA15B",
                 "manualRecords": [
                     {
                         "user": "readfreak7"
@@ -181,7 +181,7 @@ ZDL Web Data
             {
                 "name": "Chrome Arcadia",
                 "displayName": "",
-                "hash": "F2C0807C266EF4DF62166ECBCB57A83C617434ED",
+                "hash": "7AB23136DADF37C4525767691E06A3EBED9D0BE1",
                 "manualRecords": [
                     {
                         "user": "Kernkob"
@@ -198,7 +198,7 @@ ZDL Web Data
             {
                 "name": "Idolize",
                 "displayName": "",
-                "hash": "780C6A8E70C34424D8847D0C53E9EC6D811ED0B8",
+                "hash": "90D6544E038FA3363916E56B744574D52ED1DFB6",
                 "manualRecords": [
                     {
                         "user": "Kernkob"
@@ -213,7 +213,7 @@ ZDL Web Data
             {
                 "name": "(F)LAVA",
                 "displayName": "",
-                "hash": "0D2C39444F13B2BF1159376857E73A0F44547196",
+                "hash": "4CC2D3BAA3F279E8F471EC6B0980B7338C04E079",
                 "manualRecords": [],
                 "manualCreators": [],
                 "manualValidation": 0,
@@ -224,7 +224,7 @@ ZDL Web Data
             {
                 "name": "The Duality of Lexer",
                 "displayName": "",
-                "hash": "2283680E0FB4B23641AA600194F2BD5E2DC8EE01",
+                "hash": "75BD11703206ACB9ED8A60A93D21B770F2EFB9CD",
                 "manualRecords": [
                     {
                         "user": "Kernkob"
@@ -242,7 +242,7 @@ ZDL Web Data
             {
                 "name": "The Long Awaited Moment",
                 "displayName": "",
-                "hash": "233E8D4B032C3AE44BEE80555644D92D1D40448B",
+                "hash": "306E0A644AEEDC412D08F072C9D4FA2990D64AA8",
                 "manualRecords": [
                     {
                         "user": "Sandals"
@@ -266,7 +266,7 @@ ZDL Web Data
             {
                 "name": "Jungle Jam 2",
                 "displayName": "",
-                "hash": "482960AAEB203C6B2F5CADFC263F7932FA2359A7",
+                "hash": "9FDB5F9D33BF622508B8AE3AA54E48B990C536C7",
                 "manualRecords": [
                     {
                         "user": "Sandals"
@@ -293,7 +293,7 @@ ZDL Web Data
             {
                 "name": "Brake-Tech",
                 "displayName": "",
-                "hash": "A58F433072FF6EF86A453BC8462F3F37244DABB3",
+                "hash": "8C834913FA6C184A8EFAB04C32C8225923E419BB",
                 "manualRecords": [
                     {
                         "user": "Kernkob"
@@ -308,7 +308,7 @@ ZDL Web Data
             {
                 "name": "Cloudy Columns",
                 "displayName": "",
-                "hash": "5A2F460921A388763F98A4CCF20409BB8C7D91A3",
+                "hash": "AFF5C5AC83A4E5D00AFB0440818626183F3F3F38",
                 "manualRecords": [
                     {
                         "user": "RoundNzt"
@@ -326,7 +326,7 @@ ZDL Web Data
             {
                 "name": "Extremely Critical Heat",
                 "displayName": "",
-                "hash": "70133201A5EEC95F9C696AB8B1FAE58E718CA562",
+                "hash": "A7E3E7EF7B09136FE84A79DF6DD70138F3AE7235",
                 "manualRecords": [],
                 "manualCreators": [],
                 "manualValidation": 0,
@@ -340,7 +340,7 @@ ZDL Web Data
             {
                 "name": "Fleshmouth",
                 "displayName": "",
-                "hash": "FC6D40716A5543162195FD7848EC09DE000C7535",
+                "hash": "HASH NOT AVAILABLE",
                 "manualRecords": [
                     {
                         "user": "justMaki"
@@ -355,7 +355,7 @@ ZDL Web Data
             {
                 "name": "Because we were inspired by HONR we would like to carry on their legacy",
                 "displayName": "",
-                "hash": "7243F64E55253C7EBF92F79C975AB77D5E9741AC",
+                "hash": "6B61557A433037ECF337EBE7C1C6998032EF4070",
                 "manualRecords": [
                     {
                         "user": "Kernkob"
@@ -370,7 +370,7 @@ ZDL Web Data
             {
                 "name": "my corn got wet ;-;",
                 "displayName": "",
-                "hash": "69C1AA630791A0B5FFD863ADEBA20EAB00BD82F8",
+                "hash": "4990A0A447CC317EB830690B3DBDEEABDCF61098",
                 "manualRecords": [],
                 "manualCreators": [],
                 "manualValidation": 0,
@@ -381,7 +381,7 @@ ZDL Web Data
             {
                 "name": "Freeze-Dried Funk",
                 "displayName": "",
-                "hash": "21241BF959A25B27AF0A6F8BAEF3597602FA5CE5",
+                "hash": "EA244134AFBEE4E275E81AB83EF4E11E24EDD373",
                 "manualRecords": [],
                 "manualCreators": [],
                 "manualValidation": 0,
@@ -392,7 +392,7 @@ ZDL Web Data
             {
                 "name": "Early Autumn",
                 "displayName": "",
-                "hash": "EEF99A080D9B7B9577C5FC6EB726E28E6D3D1A0B",
+                "hash": "2B71F9CC5A3FC2AA8FB2A877A0ADA0DB2DEFFED1",
                 "manualRecords": [
                     {
                         "user": "Kernkob"
@@ -407,7 +407,7 @@ ZDL Web Data
             {
                 "name": "pruina impetum",
                 "displayName": "",
-                "hash": "D5260DD3E7DE1B80FCDF2DBBCF81018F593D13EF",
+                "hash": "444C34BA3AEBF3C6EF763C26640F588222CA20E1",
                 "manualRecords": [
                     {
                         "user": "Kernkob"
@@ -428,7 +428,7 @@ ZDL Web Data
             {
                 "name": "dork detection & denial service",
                 "displayName": "",
-                "hash": "DFF15CFB3A5795D48666D1199B947A5CF7670A50",
+                "hash": "02E195D0A34D5F312ABD2F5D970EB30A54C363EB",
                 "manualRecords": [
                     {
                         "user": "Kernkob"
@@ -443,7 +443,7 @@ ZDL Web Data
             {
                 "name": "Arctic Mammoth",
                 "displayName": "",
-                "hash": "A9B199653A177568D551B599DAD49A064213EDBC",
+                "hash": "30308AF2F498DD2CEC52A2E96E0828D4D4F5CA67",
                 "manualRecords": [],
                 "manualCreators": [],
                 "manualValidation": 0,
@@ -454,7 +454,7 @@ ZDL Web Data
             {
                 "name": "antrum desideratum",
                 "displayName": "",
-                "hash": "151A0FBD1677F593032B17FEB6AE6BA626FD4099",
+                "hash": "3ABE5F2D473B19EB950EF54AB0ED05FCB2B7FD7D",
                 "manualRecords": [],
                 "manualCreators": [],
                 "manualValidation": 0,
@@ -465,7 +465,7 @@ ZDL Web Data
             {
                 "name": "Paradise Island",
                 "displayName": "",
-                "hash": "8DA2DF4F4DE7EEE90EF8BC020C8F0BB29C6B731B",
+                "hash": "70DF2FB9FD44A03EFBE67CC2FC547A5765D93D64",
                 "manualRecords": [
                     {
                         "user": "Sandals"
@@ -480,7 +480,7 @@ ZDL Web Data
             {
                 "name": "ZeepStep",
                 "displayName": "",
-                "hash": "9C848B25426BC851468994552DD5255CD03FDAF3",
+                "hash": "A91EC5F35DE91191C62FDA03C247B7D2D8420C7B",
                 "manualRecords": [
                     {
                         "user": "Last"
@@ -495,7 +495,7 @@ ZDL Web Data
             {
                 "name": "Enigma",
                 "displayName": "",
-                "hash": "454B0D852766BC7EC395E3B3647A4D15AE81E53D",
+                "hash": "10D5D79606D6A07C433229310DA0E8F6C124CF84",
                 "manualRecords": [
                     {
                         "user": "Last"
@@ -510,7 +510,7 @@ ZDL Web Data
             {
                 "name": "Nasty Suprise",
                 "displayName": "",
-                "hash": "66B74D1BDA53DA893D79F33B9BB5EBB74C4856D5",
+                "hash": "04405D2CC2BEB6EF8C531617D22321310F1FC2C9",
                 "manualRecords": [
                     {
                         "user": "thespyeye"
@@ -525,7 +525,7 @@ ZDL Web Data
             {
                 "name": "Chilled Quarry",
                 "displayName": "",
-                "hash": "8BFF80307419C5556EE27AABBC8DD422D3AD36E2",
+                "hash": "70A314FCDB6650A72AB62B5DC4C2CC989E4F25B2",
                 "manualRecords": [
                     {
                         "user": "Hydro"
@@ -540,7 +540,7 @@ ZDL Web Data
             {
                 "name": "EdgeCheck",
                 "displayName": "",
-                "hash": "82448D7F184CE07F100269A97B44F0A1393A2676",
+                "hash": "9CDC872446070A68CAB8D1716A5E0BD9F25A4E2E",
                 "manualRecords": [],
                 "manualCreators": [],
                 "manualValidation": 0,
@@ -551,7 +551,7 @@ ZDL Web Data
             {
                 "name": "Grand Reunion",
                 "displayName": "",
-                "hash": "9BCF347141E1F6B51A430BAFA1F84162D46E4BB5",
+                "hash": "0E8760FB37FA62364B8B862A960F34141E4F17E6",
                 "manualRecords": [
                     {
                         "user": "justMaki"
@@ -569,7 +569,7 @@ ZDL Web Data
             {
                 "name": "Prismatic Sojourn, Ascension of the Geometric Symphony",
                 "displayName": "",
-                "hash": "682A2C1B8B52B9191524BADE70D8C3EE19A8294D",
+                "hash": "532BD2CC9EC88FD35604912F6E953103B6EBD73B",
                 "manualRecords": [
                     {
                         "user": "Jakie"
@@ -593,7 +593,7 @@ ZDL Web Data
             {
                 "name": "Grell",
                 "displayName": "",
-                "hash": "67466E693526E3430C37124B790B73D67633368D",
+                "hash": "524127C14AFDB4B3093EA1D088FD8E2FECFA177D",
                 "manualRecords": [],
                 "manualCreators": [],
                 "manualValidation": 0,
@@ -604,7 +604,7 @@ ZDL Web Data
             {
                 "name": "Ice to Meat You",
                 "displayName": "",
-                "hash": "B626FA4AFDC800B3FE2D6C1252FB761315AE4F07",
+                "hash": "000BCEED6B458414D97A02AF90BDCE202C99ABEF",
                 "manualRecords": [
                     {
                         "user": "Lexer"
@@ -622,7 +622,7 @@ ZDL Web Data
             {
                 "name": "Welcome to your worst nightmare",
                 "displayName": "",
-                "hash": "4BED38B1AA93B88D071E778710EF1D88A025DF95",
+                "hash": "7B38B0CAE7AD7EA8C2E2CF0E57BB14A4188CB05E",
                 "manualRecords": [
                     {
                         "user": "Hydro"
@@ -637,7 +637,7 @@ ZDL Web Data
             {
                 "name": "Fading Memory",
                 "displayName": "",
-                "hash": "44D24D91FB1F3D12B2C395897E771A2FD586AE8A",
+                "hash": "A0D523189182CC35879B0E507BDD61A63F6967D8",
                 "manualRecords": [],
                 "manualCreators": [],
                 "manualValidation": 0,
@@ -648,7 +648,7 @@ ZDL Web Data
             {
                 "name": "Slipcheck",
                 "displayName": "",
-                "hash": "2339F682029BFF2EF6E30E9563ACB2B6B077664A",
+                "hash": "F75ED8D8552C5736790C17172E9484508E4EAE6B",
                 "manualRecords": [],
                 "manualCreators": [],
                 "manualValidation": 0,
@@ -659,7 +659,7 @@ ZDL Web Data
             {
                 "name": "dried dogwater",
                 "displayName": "",
-                "hash": "15C50B70F1774156744D09FC1A068318D603DC82",
+                "hash": "HASH NOT AVAILABLE",
                 "manualRecords": [
                     {
                         "user": "justMaki"
@@ -680,7 +680,7 @@ ZDL Web Data
             {
                 "name": "bloody puddles",
                 "displayName": "",
-                "hash": "F2F06C1EFDBDDAC1B5ED07455F9DC006BCC219A2",
+                "hash": "E3C5FE1CD8AC0F36E9015DE1F0929B6F25473F2E",
                 "manualRecords": [],
                 "manualCreators": [],
                 "manualValidation": 0,
@@ -691,7 +691,7 @@ ZDL Web Data
             {
                 "name": "roader's desert ,,",
                 "displayName": "",
-                "hash": "EE313D6A1406D5F645AA0E43015645C0AD298098",
+                "hash": "9CFA50D8B498D0DF8B73BB074B5D7FF6E89EE7F3",
                 "manualRecords": [
                     {
                         "user": "justMaki"
@@ -706,7 +706,7 @@ ZDL Web Data
             {
                 "name": "Jungle Jam Tilted",
                 "displayName": "",
-                "hash": "760582108053F24B96678CA107505C9AC5357029",
+                "hash": "60CC3F6B40C0B95CA3B1F690D82EEE0A76E6151D",
                 "manualRecords": [
                     {
                         "user": "Sandals"
@@ -721,7 +721,7 @@ ZDL Web Data
             {
                 "name": "Jungle Jam",
                 "displayName": "",
-                "hash": "9C4CD16A40B26C34C5F2C5E23BCFD08E75F8DE85",
+                "hash": "6D2D02AB2CDC23CC835574348CAC6CD38238BE1F",
                 "manualRecords": [],
                 "manualCreators": [],
                 "manualValidation": 0,
@@ -732,7 +732,7 @@ ZDL Web Data
             {
                 "name": "I Didn't Listen To Kernkob",
                 "displayName": "",
-                "hash": "7FCDF466446317FF3B7DC825DFEDAFE88093981E",
+                "hash": "A8E0D121F77614EDDE84ED0B9745A260867154BD",
                 "manualRecords": [],
                 "manualCreators": [],
                 "manualValidation": 0,
@@ -743,7 +743,7 @@ ZDL Web Data
             {
                 "name": "Collect All Pets",
                 "displayName": "",
-                "hash": "112A6169CE9588C8FB8D536F4831F7FBE782B11C",
+                "hash": "B26874BB416C706C82EAA0BDBA8F09F8BC65159A",
                 "manualRecords": [],
                 "manualCreators": [],
                 "manualValidation": 0,
@@ -754,7 +754,7 @@ ZDL Web Data
             {
                 "name": "Ice to meet you (ft Maki)",
                 "displayName": "",
-                "hash": "2ED3A28300A49BD7A7C8E6AD0D3D06C2D9E3B966",
+                "hash": "44C3365E924DD478F9EC2497765F21A1F1542081",
                 "manualRecords": [
                     {
                         "user": "[CTR] L3it3R"
@@ -772,7 +772,7 @@ ZDL Web Data
             {
                 "name": "lucifid",
                 "displayName": "",
-                "hash": "8B8D01833C91A910B20F21B48EF8321618E249A3",
+                "hash": "4F191E84B6E79FE6E93ED2EECEED0FAF45BE13E3",
                 "manualRecords": [
                     {
                         "user": "Kernkob"
@@ -787,7 +787,7 @@ ZDL Web Data
             {
                 "name": "BobCheck",
                 "displayName": "",
-                "hash": "8AA8F512A054675BC200BB7D8DEE6876ACC634B5",
+                "hash": "EFDF2C53B606E2B5E1E5A45DE65835C61234B49F",
                 "manualRecords": [
                     {
                         "user": "Partheniki"
@@ -802,7 +802,7 @@ ZDL Web Data
             {
                 "name": "gelida smaragdi reliquiae",
                 "displayName": "",
-                "hash": "11E88352CEBAE993781789FDFAD856BB51D70895",
+                "hash": "83112B5D9B28A4805DE84843B69DB1E1CE851642",
                 "manualRecords": [
                     {
                         "user": "RoundNzt"
@@ -825,7 +825,7 @@ ZDL Web Data
             {
                 "name": "Soap Hell",
                 "displayName": "",
-                "hash": "125E0E85668A516717ED53D96C0712EBBB754909",
+                "hash": "AE87BA82C274F6AE307194873EE65BFBC15CA905",
                 "manualRecords": [
                     {
                         "user": "Odist"
@@ -840,7 +840,7 @@ ZDL Web Data
             {
                 "name": "Mount Pain",
                 "displayName": "",
-                "hash": "EE9D2266EDA816DABEE38DA355CB9959076A5401",
+                "hash": "7D22EBFDE6EFD0E86F4A0208A8E6DE089FEF13ED",
                 "manualRecords": [
                     {
                         "user": "Greil"
@@ -867,7 +867,7 @@ ZDL Web Data
             {
                 "name": "Ronans_Tears_v3",
                 "displayName": "",
-                "hash": "F1CAF3C5D82ACD465AADD3818B0322C00F028147",
+                "hash": "896A74ED31D62F1114A758EDD7511C91816715C8",
                 "manualRecords": [
                     {
                         "user": "justMaki"
@@ -882,7 +882,7 @@ ZDL Web Data
             {
                 "name": "Frozen Landscape",
                 "displayName": "",
-                "hash": "EC4061DCC1FCF9794297829BDFB4068A2B843DDD",
+                "hash": "1E158CD288A7F53B82D7D90C27D43B69790BB66A",
                 "manualRecords": [],
                 "manualCreators": [],
                 "manualValidation": 0,
@@ -893,7 +893,7 @@ ZDL Web Data
             {
                 "name": "roader's desert ,",
                 "displayName": "",
-                "hash": "997897C8DB907467D56F9AE90F5CEA8BB95BA1E5",
+                "hash": "3ABD78E88A912A3063EF442A5F6E77359B4E1C47",
                 "manualRecords": [],
                 "manualCreators": [],
                 "manualValidation": 25.691,
@@ -904,7 +904,7 @@ ZDL Web Data
             {
                 "name": "Childs Play Thing",
                 "displayName": "",
-                "hash": "59FEFD397B51CB9CFB0A1DA46765685C459F3C44",
+                "hash": "3B4BB8F7F31714049BAAC2926A26D8E7BDE767AF",
                 "manualRecords": [
                     {
                         "user": "[CTR] L3it3R"
@@ -919,7 +919,7 @@ ZDL Web Data
             {
                 "name": "LMAOU_TECH",
                 "displayName": "",
-                "hash": "20EB77B2D304264CB6E023E94B8A34B4A0A57204",
+                "hash": "6A442188FB1BE09EEA5779007461FAD4FD282C59",
                 "manualRecords": [],
                 "manualCreators": [],
                 "manualValidation": 0,
@@ -941,7 +941,7 @@ ZDL Web Data
             {
                 "name": "Joining the Dark Side But Not Fully Committing",
                 "displayName": "",
-                "hash": "404A3E243CCE8B2653BF4FB02087EDB8B4B66AE0",
+                "hash": "94E4009F95B5F8A6B8051C6D62E249E6AE3EB4F9",
                 "manualRecords": [],
                 "manualCreators": [],
                 "manualValidation": 0,
@@ -952,7 +952,7 @@ ZDL Web Data
             {
                 "name": "done with dunes",
                 "displayName": "",
-                "hash": "7627F6A23FFCB523D617944E4E65F66BD0521133",
+                "hash": "722DF24219529618FF9CC9140D62BC818345BDDF",
                 "manualRecords": [],
                 "manualCreators": [],
                 "manualValidation": 0,
@@ -963,7 +963,7 @@ ZDL Web Data
             {
                 "name": "Fresh Blue Fun",
                 "displayName": "",
-                "hash": "402AEAED0375C99142FDEBD835A5CF651F87DBB1",
+                "hash": "91FF29580E39D8530B879B6B06A3C63EBD242D2D",
                 "manualRecords": [],
                 "manualCreators": [],
                 "manualValidation": 0,
@@ -974,7 +974,7 @@ ZDL Web Data
             {
                 "name": "L'maoukiberge - Bloody Frozen Nightmare",
                 "displayName": "",
-                "hash": "EBC8200BF1E5F170BA80BC48D759681A7C7EFF26",
+                "hash": "70FA3E28577E9DB6AA29511933F43EB4C315919A",
                 "manualRecords": [],
                 "manualCreators": [],
                 "manualValidation": 0,
@@ -985,7 +985,7 @@ ZDL Web Data
             {
                 "name": "Janksitions",
                 "displayName": "",
-                "hash": "9461AD1FBCBC4CB798B9D208FEBCAB7509522BA8",
+                "hash": "C59F37FCF57D71C857D68EDBB21E0F02A54BB388",
                 "manualRecords": [],
                 "manualCreators": [],
                 "manualValidation": 0,
@@ -996,7 +996,7 @@ ZDL Web Data
             {
                 "name": "Looped - High Hell",
                 "displayName": "",
-                "hash": "AF805BE258F784C1A04AFC41B3C532DACEF22D67",
+                "hash": "66C8946EFD63801E65DC7998CA22F5486A076F78",
                 "manualRecords": [],
                 "manualCreators": [],
                 "manualValidation": 0,
@@ -1007,7 +1007,7 @@ ZDL Web Data
             {
                 "name": "Neon Hell",
                 "displayName": "",
-                "hash": "51A611086CE3E6EA10CCC395B8FC8312F92D1339",
+                "hash": "1BF0E78DB37B34326DA10F57535A7B263E88CEEF",
                 "manualRecords": [
                     {
                         "user": "Nicolas_Gamer5476"
