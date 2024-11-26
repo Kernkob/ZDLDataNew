@@ -33,7 +33,7 @@ ZDL Web Data (JSON)
                     "validation": "sDy5ytLaOgo",
                     "Kernkob": "sDy5ytLaOgo"
                 },
-                "description": "...",
+                "description": "'As of now, this is the hardest validated map in Zeepkist. You won't beat it.'",
                 "tier": "S"
             },
             {
@@ -112,7 +112,7 @@ ZDL Web Data (JSON)
                     "justMaki": "ho3EEN5CMl0",
                     "Kernkob": "mhA5-hVLCwY"
                 },
-                "description": "...",
+                "description": "'My first truly difficult non-Collab 'challenge' level. hope it lasts 10 minutes'",
                 "tier": "B"
             },
             {
@@ -139,7 +139,7 @@ ZDL Web Data (JSON)
                     "Sandals": "L9rrMhw0NKA",
                     "Mark": "WoD7a1evf4g"
                 },
-                "description": "...",
+                "description": "Along the edge of crimson abyss, lies your wish.",
                 "tier": "C"
             },
             {
@@ -349,7 +349,7 @@ ZDL Web Data (JSON)
             {
                 "name": "Fleshmouth",
                 "displayName": "",
-                "hash": "HASH NOT AVAILABLE",
+                "hash": "C8570CBA79F1D30661EC696AB4FB5AC325B43DD7",
                 "manualRecords": [
                     {
                         "user": "justMaki"
@@ -690,7 +690,7 @@ ZDL Web Data (JSON)
             {
                 "name": "dried dogwater",
                 "displayName": "",
-                "hash": "HASH NOT AVAILABLE",
+                "hash": "79B34DBCAE9212A8931052F4188B86613D0405C2",
                 "manualRecords": [
                     {
                         "user": "justMaki"
