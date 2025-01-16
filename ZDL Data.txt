@@ -304,7 +304,7 @@ ZDL Web Data (JSON)
             {
                 "name": "Mozarella and Kadchgall indulgence - The end",
                 "displayName": "",
-                "hash": "FIND HASH",
+                "hash": "9D4523590FB2A4E24D91F9E1074C18F6C99D969D",
                 "manualRecords": [],
                 "manualCreators": [],
                 "manualValidation": 0,
@@ -348,6 +348,17 @@ ZDL Web Data (JSON)
                         "user": "Kernkob"
                     }
                 ],
+                "manualCreators": [],
+                "manualValidation": 0,
+                "youtubeUrls": {},
+                "description": "...",
+                "tier": "E"
+            },
+            {
+                "name": "Sunday Stroll",
+                "displayName": "",
+                "hash": "F9F13C39A3DDC111CC8319919CF1980EFCBD961C",
+                "manualRecords": [],
                 "manualCreators": [],
                 "manualValidation": 0,
                 "youtubeUrls": {},
@@ -546,12 +557,21 @@ ZDL Web Data (JSON)
                 "tier": "G"
             },
             {
-                "name": "Nasty Suprise",
+                "name": "Prismatic Sojourn, Ascension of the Geometric Symphony",
                 "displayName": "",
-                "hash": "04405D2CC2BEB6EF8C531617D22321310F1FC2C9",
+                "hash": "532BD2CC9EC88FD35604912F6E953103B6EBD73B",
                 "manualRecords": [
                     {
-                        "user": "thespyeye"
+                        "user": "Jakie"
+                    },
+                    {
+                        "user": "PoleLord"
+                    },
+                    {
+                        "user": "Sandals"
+                    },
+                    {
+                        "user": "Kernkob"
                     }
                 ],
                 "manualCreators": [],
@@ -587,40 +607,13 @@ ZDL Web Data (JSON)
                 "tier": "G"
             },
             {
-                "name": "Grand Reunion",
+                "name": "Zeepkistulor Torsion",
                 "displayName": "",
-                "hash": "0E8760FB37FA62364B8B862A960F34141E4F17E6",
+                "hash": "DF2ADF9922C957B7913173C91E83A3504EBF0E76",
                 "manualRecords": [
-                    {
-                        "user": "justMaki"
-                    },
-                    {
-                        "user": "Last"
-                    }
-                ],
-                "manualCreators": [],
-                "manualValidation": 0,
-                "youtubeUrls": {},
-                "description": "...",
-                "tier": "G"
-            },
-            {
-                "name": "Prismatic Sojourn, Ascension of the Geometric Symphony",
-                "displayName": "",
-                "hash": "532BD2CC9EC88FD35604912F6E953103B6EBD73B",
-                "manualRecords": [
-                    {
-                        "user": "Jakie"
-                    },
-                    {
-                        "user": "PoleLord"
-                    },
-                    {
-                        "user": "Sandals"
-                    },
-                    {
+                {
                         "user": "Kernkob"
-                    }
+                },
                 ],
                 "manualCreators": [],
                 "manualValidation": 0,
@@ -633,6 +626,21 @@ ZDL Web Data (JSON)
                 "displayName": "",
                 "hash": "524127C14AFDB4B3093EA1D088FD8E2FECFA177D",
                 "manualRecords": [],
+                "manualCreators": [],
+                "manualValidation": 0,
+                "youtubeUrls": {},
+                "description": "...",
+                "tier": "G"
+            },
+            {
+                "name": "Nasty Suprise",
+                "displayName": "",
+                "hash": "04405D2CC2BEB6EF8C531617D22321310F1FC2C9",
+                "manualRecords": [
+                    {
+                        "user": "thespyeye"
+                    }
+                ],
                 "manualCreators": [],
                 "manualValidation": 0,
                 "youtubeUrls": {},
@@ -673,14 +681,28 @@ ZDL Web Data (JSON)
                 "tier": "G"
             },
             {
-                "name": "ZeepStep",
+                "name": "Grand Reunion",
                 "displayName": "",
-                "hash": "A91EC5F35DE91191C62FDA03C247B7D2D8420C7B",
+                "hash": "0E8760FB37FA62364B8B862A960F34141E4F17E6",
                 "manualRecords": [
+                    {
+                        "user": "justMaki"
+                    },
                     {
                         "user": "Last"
                     }
                 ],
+                "manualCreators": [],
+                "manualValidation": 0,
+                "youtubeUrls": {},
+                "description": "...",
+                "tier": "G"
+            },
+            {
+                "name": "Intergalactic Crossroads",
+                "displayName": "",
+                "hash": "1843336D0C6E32C815CDFEC1B1F5A9D39F6FC400",
+                "manualRecords": [],
                 "manualCreators": [],
                 "manualValidation": 0,
                 "youtubeUrls": {},
@@ -699,10 +721,14 @@ ZDL Web Data (JSON)
                 "tier": "G"
             },
             {
-                "name": "Intergalactic Crossroads",
+                "name": "ZeepStep",
                 "displayName": "",
-                "hash": "1843336D0C6E32C815CDFEC1B1F5A9D39F6FC400",
-                "manualRecords": [],
+                "hash": "A91EC5F35DE91191C62FDA03C247B7D2D8420C7B",
+                "manualRecords": [
+                    {
+                        "user": "Last"
+                    }
+                ],
                 "manualCreators": [],
                 "manualValidation": 0,
                 "youtubeUrls": {},
@@ -742,6 +768,17 @@ ZDL Web Data (JSON)
                 "tier": "H"
             },
             {
+                "name": "Deltarune 1 - THE WORLD REVOLVING",
+                "displayName": "",
+                "hash": "517FAD184744820A1254AD9348BFF78486C78B34",
+                "manualRecords": [],
+                "manualCreators": [],
+                "manualValidation": 0,
+                "youtubeUrls": {},
+                "description": "...",
+                "tier": "H"
+            },
+            {
                 "name": "bloody puddles",
                 "displayName": "",
                 "hash": "E3C5FE1CD8AC0F36E9015DE1F0929B6F25473F2E",
@@ -751,7 +788,9 @@ ZDL Web Data (JSON)
                 "youtubeUrls": {},
                 "description": "...",
                 "tier": "H"
-            },
+            }
+        ],
+        "legacy": [
             {
                 "name": "roader's desert ,,",
                 "displayName": "",
@@ -832,9 +871,7 @@ ZDL Web Data (JSON)
                 "youtubeUrls": {},
                 "description": "...",
                 "tier": "H"
-            }
-        ],
-        "legacy": [
+            },
             {
                 "name": "lucifid",
                 "displayName": "",
