@@ -15,3 +15,5 @@ new_str = ", ".join(initial_list)
 print()
 print("New list: ")
 print(new_str)
+
+input()
